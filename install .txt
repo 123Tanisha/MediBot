@@ -1,0 +1,16 @@
+install 
+python 3.10 above
+
+thonny
+
+add pakages 
+matplotlib
+numpy 
+pandas
+sklearn
+googletrans
+pip install googletrans==4.0.0-rc1
+
+pip install translate
+
+pip install pyttsx3 SpeechRecognition pyaudio
